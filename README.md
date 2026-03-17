@@ -16,5 +16,6 @@ Run the program with python main.py
 | input_path    | Path to the input image (default: input.png)                                                |
 | output_size   | Target dimensions of the resized image (1000×1000, 2000×2000, 3000×3000 in the experiments) |
 | scale_factors | Derived from input/output sizes for nearest-neighbor coordinate mapping                     |
+
 Dataset:
 The dataset used consists of a single local image (input.png)
