@@ -2,7 +2,7 @@
 
 This project focuses on implementing a simple image resizer using the nearest-neighbor algorithm. The goal is to compare a sequential version with a parallel implementation based on Python’s multiprocessing module. The task consists of scaling an RGB image to a new resolution, which is a very common operation in computer vision pipelines.
 
-There is a Report which deeply analyses the project, including an introduction of the goals and the characteristics, the explanation of the algorithm used and parallelization strategy, and an analysis of the results and the corresponding discussion. 
+In the repository you can find a Report which deeply analyses the project, including an introduction of the goals and the characteristics, the explanation of the algorithm used and parallelization strategy, and an analysis of the results and the corresponding discussion. 
 
 Run instructions: 
 Firstly, to run it you must have installed numpy Pillow. You can install it with this command: pip install numpy Pillow.
